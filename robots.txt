@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /privacy.html
+Disallow: /accessibility.html
+
+Sitemap: https://imakecarkeys.com/sitemap.xml
