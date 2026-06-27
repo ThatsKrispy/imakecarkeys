@@ -1,0 +1,2 @@
+# Cloudflare Pages redirects (one rule per line: from  to  status)
+/home    /    301
